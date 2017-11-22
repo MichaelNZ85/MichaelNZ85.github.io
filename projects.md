@@ -6,13 +6,10 @@ layout: default
 
 ## First Year Projects
 
-### Programming 1
-For our Programming 1 assignment, we had to create a program to simulate a large-scale lottery. The program maintained a list of names of people and allowed the user to simulate selling tickets to ten people from that list. Each ticket had four results and those results were then displayed to the console. The code can be found here.
-
 ### Programming 2
-For our first assignment we had to create a simulation of the classic video game Pong, using Visual Studio. The player controlled the left-hand paddle using the up and down arrow keys while the right-hand paddle was controlled by the computer. The code can be found here. 
+For our first assignment we had to create a simulation of the classic video game Pong, using Visual Studio. The player controlled the left-hand paddle using the up and down arrow keys while the right-hand paddle was controlled by the computer. The code can be found [here](https://github.com/MichaelNZ85/Prog2Assignment1). 
 
-The second assignment was to recreate the classic arcade game Pac-Man. Again this was done in a Visual Studio window. Simple images were used to create the layout, Pac-Man and the ghosts. The player moved Pac-Man around the window using the arrow keys. The code can be found here. 
+The second assignment was to recreate the classic arcade game Pac-Man. Again this was done in a Visual Studio window. Simple images were used to create the layout, Pac-Man and the ghosts. The player moved Pac-Man around the window using the arrow keys. The code can be found [here](https://github.com/MichaelNZ85/Prog2Assignment2). 
 
 ### Web 1
 Our final assignment, a group project, was to create a website for a fictional company. We decided on a fictional art gallery in Rome, and we created a website for them using a pre-built Bootstrap template and components. The website can be found here.
@@ -20,7 +17,7 @@ Our final assignment, a group project, was to create a website for a fictional c
 ## Second Year Projects
 
 ### Programming 3
-An assignment involved collecting a set of data. We then had to create a program that would read in that data and create graphs using it. The code can be found here.
+An assignment involved collecting a set of data. We then had to create a program that would read in that data and create graphs using it. The code can be found [here](https://github.com/MichaelNZ85/Programming3).
 
 ### Programming 4
 The first part of Programming 4 focused on game development. This culminated in the creation of a roguelike dungeon crawling game. The code can be found here.
