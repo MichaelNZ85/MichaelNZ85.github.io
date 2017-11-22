@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Papers I Took
 
 Here is a a list of papers that I took in the Bachelor of Information Technology degree.
