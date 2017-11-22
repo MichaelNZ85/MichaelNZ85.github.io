@@ -26,7 +26,7 @@ Our assignment was to create a wearable product using an Arduino. My project was
 The first part of Programming 4 focused on game development. This culminated in the creation of a roguelike dungeon crawling game. The code can be found [here](https://github.com/MichaelNZ85/Programming4).
 
 ### Web 2
-I created a website for people to track their exercise. New users could register and login to the site and then go to a form to input their exercise data. The website was also able to produce a graph and allow the user to compare their exercise to another user. The code can be found here. 
+I created a website for people to track their exercise. New users could register and login to the site and then go to a form to input their exercise data. The website was also able to produce a graph and allow the user to compare their exercise to another user. The code can be found [here](https://github.com/MichaelNZ85/Web2). 
 
 ## Third Year
 
