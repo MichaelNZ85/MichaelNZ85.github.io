@@ -11,3 +11,5 @@ Upon returning to New Zealand from Malaysia, I enrolled in Victoria University o
 I have just completed a Bachelor of Information Technology at Otago Polytechnic. I have completed papers in a variety of areas including programming, web development, networking and systems administration.
 
 I am currently seeking employment in the Information Technology sector.
+
+You can read about [the papers I took](https://michaelnz85.github.io/papers) during my degree and some of the [projects I completed.](https://michaelnz85.github.io/projects) 
