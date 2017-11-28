@@ -14,4 +14,4 @@ I am currently seeking employment in the Information Technology sector.
 
 You can read about [the papers I took](https://michaelnz85.github.io/papers) during my degree and some of the [projects I completed.](https://michaelnz85.github.io/projects) 
 
-See my [LinkedIn profile](https://www.linkedin.com/in/michael-inglis85/)
+See my [LinkedIn profile](https://www.linkedin.com/in/michael-inglis85/).
